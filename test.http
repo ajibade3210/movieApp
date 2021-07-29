@@ -1,0 +1,8 @@
+POST http://localhost:5000/movies
+Content-Type: application/json
+
+{
+    "title": "wonder-man",
+    "genre": "action",
+    "year": "2021"
+}
